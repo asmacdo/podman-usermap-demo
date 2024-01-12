@@ -1,1 +1,1 @@
-`make all` and read the output.
+`make demo` and read the output.

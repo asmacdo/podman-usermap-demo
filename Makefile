@@ -73,4 +73,4 @@ fancy: clean build
 	@cat ${FILENAME}
 	podman stop m2m-e
 
-all: root-to-me me-to-me fancy
+demo: fancy me-to-me root-to-me-explicit root-to-me
